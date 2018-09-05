@@ -1,4 +1,4 @@
-##Nalin Ahuja's first CS193 Lab
+## Nalin Ahuja's first CS193 Lab
 
 *Gitbub is pretty cool. 
 *Instructors seem to be chill. 
